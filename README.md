@@ -5,6 +5,7 @@ SegFormer, a Transformer-Based Model, for Cell Nuclei Instance Segmentation on P
 Overview
 ------------
 SegFormer leverages transformers, a powerful neural network architecture, to achieve high accuracy in segmenting images. This project focuses on applying SegFormer to the task of segmenting individual cell nuclei within microscopy images. The PanNuke dataset provides a collection of labeled images for training and evaluating the model. It is designed to work with the PanNuke extension dataset which includes nearly 200,000 nuclei across various cancer types. The notebook contains detailed Pytorch code for applying deep learning models to perform nuanced segmentation tasks that are crucial for advancing computational pathology.
+
 [SegFormer paper](https://arxiv.org/abs/2105.15203)
 
 
